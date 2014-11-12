@@ -1,0 +1,22 @@
+{
+  "name": "generator-simple-server",
+  "version": "0.0.1",
+  "description": "Simple server for static files. Used by frontend developers",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:agribanov/generator-simple-server.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "simple-server"
+  ],
+  "author": "Aleksandr Gribanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agribanov/generator-simple-server/issues"
+  },
+  "homepage": "https://github.com/agribanov/generator-simple-server",
+  "dependencies": {
+    "yeoman-generator": "^0.17.7"
+  }
+}

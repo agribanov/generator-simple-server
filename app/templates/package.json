@@ -1,0 +1,11 @@
+{
+  "name": "simple-server",
+  "version": "0.1.0",
+  "description": "simple server for static files",
+  "main": "server.js",
+  "author": "Aleksandr Gribanov",
+  "dependencies": {
+    "connect": "^3.3.3",
+    "serve-static": "^1.7.1"
+  }
+}
